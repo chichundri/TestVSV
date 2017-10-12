@@ -8,7 +8,7 @@ public class CSVReader {
 
     public static void main(String[] args) {
 
-        String csvFile = "country1.csv";
+        String csvFile = "country1.csv"; 
         BufferedReader br = null;
         String line = "";
         String cvsSplitBy = ",";
